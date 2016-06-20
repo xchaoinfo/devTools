@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Anaconda",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Emmet",
+		"Github Tools",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"Javatar",
+		"JsFormat",
+		"Markdown Preview",
+		"Package Control",
+		"SideBarEnhancements",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeREPL",
+		"SublimeTmpl",
+		"Tag",
+		"Terminal",
+		"Theme - Flatland"
+	]
+}
